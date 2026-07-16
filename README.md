@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm **Tyree Black** 
+I'm **Tyree Black**
 
 ### IT Security Technician | Cybersecurity Engineering Graduate Student
 Active Interim Secret | Driven to protect enterprise systems, analyze threats, and build secure architectures.
 
-* 🛡️ **Defensive Security** — Specializing in threat analysis, incident response, and vulnerability assessments.
+* 👥 **Defensive Security** — Specializing in threat analysis, incident response, and vulnerability assessments.
 * 🎓 **Continuous Learning** — Pursuing an M.S. in Cybersecurity Engineering at the University of Maryland.
 * 📦 **Projects** — Creator of *JEANETTE*, a modular CLI tool for centralized security assessment tasks.
-* 🧪 **Research** — Conducted cryptographic research on resource-constrained IoT data pools at Bowie State.
+* 📝 **Research** — Conducted cryptographic research on resource-constrained IoT data pools at Bowie State.
 
 ---
 
@@ -25,3 +25,4 @@ Active Interim Secret | Driven to protect enterprise systems, analyze threats, a
 
 ### Infrastructure & Tools
 ![Docker](https://shields.io) ![VMware](https://shields.io) ![ServiceNow](https://shields.io)
+
