@@ -17,7 +17,7 @@ Active Interim Secret | Driven to protect enterprise systems, analyze threats, a
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-1E1E2F?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Python](https://img.shields.io/badge/Python-1E1E2F?style=for-the-badge&logo=python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/C%2B%2B-1E1E2F?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-1E1E2F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![PHP](https://img.shields.io/badge/PHP-1E1E2F?style=for-the-badge&logo=php&logoColor=777BB4)
