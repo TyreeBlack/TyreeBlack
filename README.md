@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**TyreeBlack/TyreeBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tyree Black** 
 
-Here are some ideas to get you started:
+### IT Security Technician | Cybersecurity Engineering Graduate Student
+Active Interim Secret | Driven to protect enterprise systems, analyze threats, and build secure architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🛡️ **Defensive Security** — Specializing in threat analysis, incident response, and vulnerability assessments.
+* 🎓 **Continuous Learning** — Pursuing an M.S. in Cybersecurity Engineering at the University of Maryland.
+* 📦 **Projects** — Creator of *JEANETTE*, a modular CLI tool for centralized security assessment tasks.
+* 🧪 **Research** — Conducted cryptographic research on resource-constrained IoT data pools at Bowie State.
+
+---
+
+## Skills
+
+### Programming Languages
+![Python](https://shields.io)
+![C++](https://shields.io)
+![PHP](https://shields.io)
+![SQL](https://shields.io)
+![Ruby](https://shields.io)
+![PowerShell](https://shields.io)
+
+### Networking & Security Practices
+![Nmap](https://shields.io)
+![Wireshark](https://shields.io)
+![Splunk](https://shields.io)
+![Active Directory](https://shields.io)
+![MITRE ATT&CK](https://shields.io)
+
+### Frameworks, Web, & Cloud Technologies
+![React](https://shields.io)
+![Node.js](https://shields.io)
+![AWS](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+### Infrastructure & Tools
+![Docker](https://shields.io)
+![VMware](https://shields.io)
+![ServiceNow](https://shields.io)
